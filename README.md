@@ -54,4 +54,4 @@ explainable-loan-approval/
 ## Author
 
 **Reshma Begam**  
-AI & Data Science Enthusiast  
+ Data Science Enthusiast  
